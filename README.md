@@ -1,4 +1,4 @@
-# 🏥 AI Receptionist for Hospital
+# 🏥 AI Ibound Caller Receptionist for Hospital
 
 An intelligent, voice-based hospital receptionist assistant powered by AI, enabling seamless patient interactions for appointments, doctor scheduling, and emergency services.
 
