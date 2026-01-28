@@ -1,0 +1,8 @@
+{
+  "trunk": {
+    "name": "twilio-inbound",
+    "numbers": ["+12292139528"],
+    "auth_username": "user",
+    "auth_password": "yourepassward"
+  }
+}
